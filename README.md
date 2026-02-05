@@ -47,7 +47,8 @@
 
 ## 📬 联系
 
-- 📧 [774542602@qq.com](mailto:774542602@qq.com)   
+- 📧 [774542602@qq.com](mailto:774542602@qq.com)
+- 📧 [17373797689](tel:17373797689)   
 
 <!--
 **liqiongfan/liqiongfan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
