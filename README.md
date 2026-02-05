@@ -4,6 +4,7 @@
 [![Mobile](https://img.shields.io/badge/Mobile-17373797689-EA4335?logo=T-Mobile&logoColor=white&style=for-the-badge)](tel:17373797689)
 
 > **💡 Specializing in Vision + Language, building complete solutions for AI, ASR, face recognition, and so on.**
+
 > **💡 专注于视觉和语言，为人工智能、自动语音识别、人脸识别等领域构建完整的解决方案。**
 
 ---
@@ -36,7 +37,7 @@
 | **Go / Java / C / C++** | 熟练 | 多种语言开发 |
 | **iOT / MQTT** | 熟练 | 物联网数据协议和服务开发, 如充电桩, 充电宝等 |
 | **Kafka / RabbitMQ** | 熟练 | 消息队列使用 |
-| **Postgres / MySQL ** | 熟练 | 多种数据库开发和性能优化 |
+| **Postgres / MySQL** | 熟练 | 多种数据库开发和性能优化 |
 | **ONNX Runtime / QAT** | 熟练 | 跨平台部署, 量化 |
 | **Docker / Docker Compose** | 熟练 | 容器化 & 私有化部署 |
 | **Nginx / Linux DevOps** | 熟练 | HTTPS, 反向代理, CI/CD流水线 |
