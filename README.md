@@ -1,7 +1,7 @@
 # 李景港 LIJINGGANG
 
 [![Email](https://img.shields.io/badge/Email-774542602%40qq.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:774542602@qq.com) 
-[![Mobile](https://img.shields.io/badge/Mobile-17373797689-EA4335?logo=T-Mobile&logoColor=white&style=for-the-badge)](tel:17373797689)
+[![Email](https://img.shields.io/badge/Mobile-17373797689-EA4335?logo=T-Mobile&logoColor=white&style=for-the-badge)](tel:17373797689) 
 
 > **💡 专注于视觉和语言，为人工智能、自动语音识别、人脸识别等领域构建完整的解决方案。**
 
