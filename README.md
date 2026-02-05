@@ -4,8 +4,11 @@
 [![Mobile](https://img.shields.io/badge/Mobile-17373797689-EA4335?logo=T-Mobile&logoColor=white&style=for-the-badge)](tel:17373797689)
 
 > **💡 专注于视觉和语言，为人工智能、自动语音识别、人脸识别等领域构建完整的解决方案。**
+
 > **💡 擅长多种计算机语言，Go, C/C++, Java, Kotlin, Python, PHP等。**
+
 > **💡 对于大型软件架构具备从零到一设计&实现的经验。**
+
 > **💡 对于物联网、电商、支付、ERP等行业系统具备实际开发与架构经验。**
 
 ---
