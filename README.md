@@ -3,25 +3,23 @@
 [![Email](https://img.shields.io/badge/Email-774542602%40qq.com-EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:774542602@qq.com) 
 [![Mobile](https://img.shields.io/badge/Mobile-17373797689-EA4335?logo=T-Mobile&logoColor=white&style=for-the-badge)](tel:17373797689)
 
-> **💡 Specializing in Vision + Language, building complete solutions for AI, ASR, face recognition, and so on.**
-
 > **💡 专注于视觉和语言，为人工智能、自动语音识别、人脸识别等领域构建完整的解决方案。**
+> **💡 擅长多种计算机语言，Go, C/C++, Java, Kotlin, Python, PHP等。**
+> **💡 对于大型软件架构具备从零到一设计&实现的经验。**
+> **💡 对于物联网、电商、支付、ERP等行业系统具备实际开发与架构经验。**
 
 ---
 
 ## 🧑‍💻 个人介绍
 
-我是一名资深的计算机视觉与机器学习工程师，在视觉和语言领域都拥有深厚的专业知识。我的主要优势包括端到端开发、基础设施设计和跨职能部署。
+我是一名资深的计算机工程师，在大型复杂系统架构设计、支付、计算机视觉和语言领域都拥有深厚的专业知识。我的主要优势包括端到端开发、基础设施设计与开发和CICD跨端部署。
 
-- Specializing in **Document OCR/KIE**, **Face Recognition**, and **Face Anti-Spoofing Detection**
-- 专注于 **文档OCR/KIE**、**人脸识别** 和 **人脸防欺骗检测**
-- Experienced in **model design and training**, including CNN, Transformer, ViT, and self-supervised learning
-- 精通模型设计和训练，包括卷积神经网络（CNN）、Transformer、ViT 和自监督学习。
-- Proficient in **MLOps workflows**, including ONNX Runtime, quantization (PTQ/QAT), Docker, and CI/CD
-- 精通 **MLOps 工作流程**，包括 ONNX Runtime、量化（PTQ/QAT）、Docker 和 CI/CD。
-- Self-hosting a full-stack **technical blog and research note platform** using React, FastAPI, and Nginx
-- 使用 React、FastAPI 和 Nginx 自托管全栈**技术博客和研究笔记平台**
-- Demonstrates strong capabilities in Linux system administration and DevOps practices
+- 精通模型设计和训练，包括卷积神经网络（CNN）、Transformer、SSD(Yolo)目标检测、语义分割等。
+- 精通 **MLOps 工作流程**，包括 ONNX Runtime、量化（QAT）、Docker 和 CI/CD。
+- 精通Go,C等语言，并且对于其他语言Python,Kotlin,Java,PHP等也有多年实战经验。
+- 具备多年的大型系统架构设计与开发落地经验，如：ERP、API网关、物联网消息分发、负载均衡、支付网关、数据安全等。
+- 目前深耕AI大模型领域，对于大模型的文字Transformer、语音ASR、视觉等在Pytorch上面的实现具有深度理解。
+- 并且具有大模型的多个实际项目落地经验：物体检测、检索增强RAG等。
 - 展现出强大的Linux系统管理和DevOps实践能力
 
 ---
@@ -41,22 +39,6 @@
 | **ONNX Runtime / QAT** | 熟练 | 跨平台部署, 量化 |
 | **Docker / Docker Compose** | 熟练 | 容器化 & 私有化部署 |
 | **Nginx / Linux DevOps** | 熟练 | HTTPS, 反向代理, CI/CD流水线 |
-
----
-
-## 🚀 Featured Projects
-
-### Deep Learning
-- [**DocAligner**](https://docsaid.org/en/docs/docaligner): Detects document corners for alignment.  
-- [**DocClassifier**](https://docsaid.org/en/docs/docclassifier): Document image classification pipeline.  
-- [**MRZScanner**](https://docsaid.org/en/docs/mrzscanner): Finds MRZ regions on ID/passport images.  
-
-### Tools & Integrations
-- [**AutoTraderX**](https://docsaid.org/en/docs/autotraderx): Integration experiments with Taiwan brokerage APIs.  
-- [**Capybara**](https://docsaid.org/en/docs/capybara): CV toolkit for batch inference and utilities.  
-- [**GmailSummary**](https://docsaid.org/en/docs/gmailsummary): Gmail ⇄ OpenAI summarizer (archived).  
-- [**Nginx Notes**](https://docsaid.org/en/docs/nginx-notes): Handy Nginx configs & tips.  
-- [**WordCanvas**](https://docsaid.org/en/docs/wordcanvas): Synthetic font‑to‑image data generator.  
 
 ---
 
